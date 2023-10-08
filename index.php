@@ -37,7 +37,7 @@ include('includes/config.php');
 <body>
     <?php include('includes/header.php');?>
     <div class="banner">
-        <div class="container-fluid">
+    <div class="container-fluid">
             <h1 class="wow zoomIn animated animated" data-wow-delay=".5s"
                 style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">Adventure BD</h1>
         </div>
